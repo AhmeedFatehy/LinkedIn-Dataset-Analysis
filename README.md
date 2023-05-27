@@ -6,4 +6,4 @@ The purpose of this research is to provide useful information for jobs recommend
 --> You can find the data used in "dump.csv" file. This is the Filtered Data.
 
 # Project on Colab:
-https://colab.research.google.com/drive/12HdB-KBJrYtsxq7EkRhl_R0D7u6N4Fto?authuser=1#scrollTo=-pGKSGREmFJv
+https://colab.research.google.com/drive/12HdB-KBJrYtsxq7EkRhl_R0D7u6N4Fto?usp=sharing
